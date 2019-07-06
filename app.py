@@ -131,6 +131,8 @@ GPIO.output(servo, False)
 pwm.ChangeDutyCycle(0)
 pwm.stop()
 GPIO.cleanup()
+if __name__ == '__main__':
+   app.run()
 #try:
  #   app.run(host='0.0.0.0', port=8091)
     #app.run(debug=True)
