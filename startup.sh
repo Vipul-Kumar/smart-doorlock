@@ -15,11 +15,11 @@ sudo service nginx restart
 
 sleep 3s
 echo "Activating virtual environment "
-source /home/pi/doorlock-python/.env/bin/activate
+source /home/pi/smart-doorlock/.env/bin/activate
 
 echo "Starting Gunicorn app "
 sleep 1s
-GUNICORN_CMD_ARGS="--bind=127.0.0.1:8091 --workers=1" gunicorn  --chdir /home/pi/doorlock-python app:app &
+GUNICORN_CMD_ARGS="--bind=127.0.0.1:8091 --workers=1" gunicorn  --chdir /home/pi/smart-doorlock app:app &
 
 
 
