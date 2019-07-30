@@ -44,7 +44,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9kslgWyq4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/g9kslgWyq4w
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
