@@ -3,6 +3,10 @@ Keys are yesterday's tech, your smart home needs a smart door lock. This reposit
 
 A WLAN connected, servo-driven deadbolt actuator with IP camera stream that can be operated remotely using a smartphone.
 
+## Schematic Diagram 
+
+![Circuit Diagram](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Installation
 
 Clone the project using the following command
