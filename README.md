@@ -7,6 +7,9 @@ A WLAN connected, servo-driven deadbolt actuator with IP camera stream that can 
 
 ![Circuit Diagram](https://raw.githubusercontent.com/Vipul-Kumar/smart-doorlock/master/res/schematic_diagram.jpg)
 
+**NOTE:** In place of external battery we can place a capacitor in the circuit , since I did not have a capacitor while making this project over a weekend so had to manage the power using a battery.
+For more information on how to connect raspberry pi with a servo motor click [here.](https://circuitdigest.com/microcontroller-projects/raspberry-pi-servo-motor-control) 
+
 ## Installations
 
 Clone the project using the following command
