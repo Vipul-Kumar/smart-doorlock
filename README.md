@@ -5,9 +5,9 @@ A WLAN connected, servo-driven deadbolt actuator with IP camera stream that can 
 
 ## Schematic Diagram 
 
-![Circuit Diagram](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Circuit Diagram](https://github.com/Vipul-Kumar/smart-doorlock/tree/master/res/schematic_diagram.jpg)
 
-## Installation
+## Installations
 
 Clone the project using the following command
 
